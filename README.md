@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--## Hi there 👋
+-->
 <!--
 **meowgent/meowgent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name&apos;s Yuri.
+
+I make multimedia applications, mainly personal organizers of all sorts targeting Windows, FreeBSD, and Web.
+
+I&apos;m using Qt with D-lang and WPF for desktop, ASP for Web backends, JS/TS, etc.
