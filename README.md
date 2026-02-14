@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Name&apos;s Yuri.
 
-I make multimedia applications, mainly personal organizers of all sorts targeting Windows, FreeBSD, and Web.
+I make multimedia applications, mainly personal organizers of all sorts targeting Windows, FreeBSD, and the Web.
 
 I&apos;m using Qt with D-lang and WPF for desktop, ASP for Web backends, JS/TS, etc.
